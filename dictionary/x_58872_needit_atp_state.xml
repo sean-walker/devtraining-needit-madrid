@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="ATP_state" max_length="40" name="x_58872_needit_atp_state" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=U_ASSET_SERIAL_NUMBER" label="U_ASSET_SERIAL_NUMBER" max_length="40" name="u_asset_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=U_HARDWARE_STATE" label="U_HARDWARE_STATE" max_length="40" name="u_hardware_state" type="string"/>
+    </element>
+</database>
